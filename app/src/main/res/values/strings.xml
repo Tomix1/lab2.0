@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2.0</string>
+    <string name="hint_number1">Первое число</string>
+    <string name="hint_number2">Второе число</string>
+    <string name="plus_button_text">+</string>
+    <string name="minus_button_text">-</string>
+    <string name="mult_button_text">*</string>
+    <string name="div_button_text">/</string>
+</resources>
